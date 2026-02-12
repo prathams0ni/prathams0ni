@@ -156,8 +156,10 @@ These projects demonstrate practical application of regression, classification, 
 # 📫 Let's Connect
 
 📧 Email: prathamsoni1128@gmail.com  
-🔗 LinkedIn: https://www.linkedin.com/in/pratham-soni-600787268
+
 💻 Portfolio: https://pratham-soni-portfolio.lovable.app
+
+🔗 LinkedIn: https://www.linkedin.com/in/pratham-soni-600787268
 
 ---
 
