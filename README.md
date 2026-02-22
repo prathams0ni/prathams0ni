@@ -48,6 +48,26 @@ Business Insight Generation
 
 ---
 
+## 🤖 QueryMind – LLM-Powered Natural Language to SQL Engine  
+
+Built an intelligent NL-to-SQL system that converts plain English questions into safe, executable SQL queries using LLMs.
+
+Problem: 
+Business users struggle to write complex SQL queries and depend heavily on technical teams for data extraction.  
+Manual querying slows down decision-making and increases operational bottlenecks.
+
+Solution:
+Developed an LLM-powered Natural Language to SQL engine that converts plain English questions into schema-aware, executable SQL queries with built-in safety guardrails and a self-healing error correction loop.
+
+Outcome:  
+
+✔ Enabled non-technical users to query databases independently  
+✔ Reduced manual SQL effort through AI-driven automation  
+✔ Ensured secure query execution with SELECT-only validation  
+✔ Demonstrated production-style modular architecture with real-time visualization  
+
+---
+
 ## 🔥 Digital Transaction & Failure Risk Analysis  
 (Python + Power BI)
 
