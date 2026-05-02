@@ -1,5 +1,7 @@
 # 👋 Hi, I'm Pratham Soni  
 
+---
+
 🎯 Aspiring Data Analyst | Business Analyst | AI/ML Enthusiast  
 📊 Solving Real-World Business Problems Using Data  
 
